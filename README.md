@@ -8,7 +8,7 @@ The dashboard transforms sales data into an accessible visual reporting tool, en
 
 ## Dashboard Preview
 
-![Car Sales Performance Dashboard](CarSales%20Dashboard_001.jpg)
+![Car Sales Performance Dashboard](Car Sales Performance Dashboard.jpg)
 
 ## Business Objectives
 
