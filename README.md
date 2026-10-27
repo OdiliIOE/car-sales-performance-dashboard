@@ -6,10 +6,6 @@ This project presents an interactive **Car Sales & Business Performance Dashboar
 
 The dashboard transforms sales data into an accessible visual reporting tool, enabling stakeholders to monitor key performance indicators (KPIs), explore sales patterns across markets, and identify areas for further business investigation.
 
-## Dashboard Preview
-
-![Car Sales Performance Dashboard](Car Sales Performance Dashboard.jpg)
-
 ## Business Objectives
 
 The dashboard was designed to help stakeholders:
