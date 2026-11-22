@@ -83,7 +83,4 @@ This project demonstrates the application of business intelligence and data visu
 ## Author
 
 **Emmanuel Odili**
-
-Data Analytics | Business Intelligence | Power BI
-
-[LinkedIn Profile](https://www.linkedin.com/in/odiliemmanuel)
+Data Analyst | Business Consultant
