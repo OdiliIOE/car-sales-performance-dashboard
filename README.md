@@ -82,5 +82,4 @@ This project demonstrates the application of business intelligence and data visu
 
 ## Author
 
-**Emmanuel Odili**
-Data Analyst | Business Consultant
+**Emmanuel Odili** Data Analyst | Business Consultant
